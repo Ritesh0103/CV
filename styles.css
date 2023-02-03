@@ -1,0 +1,46 @@
+
+
+
+  body {
+  Background-color: rgb(209,209,209);
+
+    }
+  hr{
+  border-style: none;
+  border-top-style: dotted;
+  border-color: rgb(199,115,169);
+  border-width: 5px;
+  width: 5%;
+    }
+h3{
+  color: hsl(270, 100%, 50%);
+}
+
+h1 {
+  color: hsl(270, 100%, 50%);
+
+}
+li{
+  color: yellow;
+}
+table{
+  color: rgb(199,59,13);
+}
+
+.Love:hover {
+  background-color: gold;
+  border-radius: 100%;
+}
+#meraphoto:hover{
+
+
+}
+#meraphoto{
+  border-radius: 100%;
+}
+
+
+
+#Myhobbies:hover{
+  background-color: Pink;
+}
